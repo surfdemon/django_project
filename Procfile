@@ -1,1 +1,1 @@
-web: gunicorn django-app-rb.wsg:django_project
+web: gunicorn django-app-rb.wsg
