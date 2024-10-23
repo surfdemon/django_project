@@ -1,0 +1,1 @@
+web: gunicorn django-app-rb.wsgi
