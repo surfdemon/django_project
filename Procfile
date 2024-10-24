@@ -1,1 +1,1 @@
-web gunicorn djangoapprb.wsgi:app
+web: gunicorn djangoapprb.wsgi
